@@ -33,7 +33,7 @@ Nedan följer en tabell med korrekt svensk vokabulär att användas när du skri
 | Grundkommando | Anglifierat uttryck | Tecken i KraftSkalet |
 |---|---|---|
 | Daler | Dollar | $ |
-| Golvsträck | Underscore | _ |
+| Golvstreck | Underscore | _ |
 | Mindre än-tecken*** | Less than | < |
 | Större än-tecken*** | Greater than | > |
 | Rak parentes | Bracket | [ ] |
